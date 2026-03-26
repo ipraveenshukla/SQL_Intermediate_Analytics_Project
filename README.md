@@ -48,7 +48,8 @@ I built this project to analyze customer behavior, retention, and lifetime value
 
 **Visualization:**  
 
-![](/Images/1_customer_segementation.png)
+<img src="Images/1_customer_segementation.png" style="width:400px; border-radius:10px;">
+
 
 **Key Findings:**  
 - **25% customers → 66% revenue ($135.4M)**  
@@ -76,11 +77,11 @@ I built this project to analyze customer behavior, retention, and lifetime value
 
 **Key Findings:**  
 - Spending dropped from **~$2,800 → ~$1,970** (older vs new cohorts)  
-- Peak growth in 2022–2023, now declining in 2024  
+- Peak growth in 2016–2019, now declining in 2024  
 - High volatility → unstable revenue patterns  
 
 **Insights:**  
-- Target newer cohorts (2016–2019) before churn kicks in  
+- Target newer cohorts (2022–2024) before churn kicks in  
 - Introduce subscriptions / loyalty programs  
 - Replicate strategies from high-performing cohorts (2016–2018)  
 
