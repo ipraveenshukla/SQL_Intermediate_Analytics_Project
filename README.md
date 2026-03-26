@@ -136,7 +136,7 @@ I built this project to analyze customer behavior, retention, and lifetime value
 
 ## ⚙️ Tech Stack  
 - **Database:** PostgreSQL  
-- **Tools:** PostgreSQL, DBeaver  
+- **Tools:** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** Google Gemini  
 
 ---
