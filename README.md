@@ -80,7 +80,7 @@ I built this project to analyze customer behavior, retention, and lifetime value
 - High volatility → unstable revenue patterns  
 
 **Insights:**  
-- Target newer cohorts (2022–2024) before churn kicks in  
+- Target newer cohorts (2016–2019) before churn kicks in  
 - Introduce subscriptions / loyalty programs  
 - Replicate strategies from high-performing cohorts (2016–2018)  
 
